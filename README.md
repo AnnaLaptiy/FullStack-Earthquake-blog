@@ -1,4 +1,5 @@
  Blog with articles
+ 
 Registered users can leave articles, edit them, and comment on them. 
 Articles can be sorted by the number of views/popularity. There is a possibility to see a list of all articles, and when you open a particular article, you can see the full text and comments to it.
 When implementing the project were used:
